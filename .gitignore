@@ -1,0 +1,48 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# PyTorch
+*.pth
+*.pt
+
+# Data
+data/
+*.npy
+*.csv
+*.txt
+
+# Checkpoints
+checkpoints/
+
+# Environment
+.env
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs
+*.log
+logs/
+
+# Windows
+Thumbs.db
+ehthumbs.db
+
+# macOS
+.DS_Store
+
+# Temporary files
+*.tmp
+*.temp
+
+# Build files
+build/
+dist/
+*.egg-info/
